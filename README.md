@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Language-COBOL-blue" alt="COBOL">
   <img src="https://img.shields.io/badge/Database-DB2-brightgreen" alt="DB2">
-  <img src="https://img.blob.core.windows.net/docs/mainframe-badge.svg" alt="Mainframe">
 </p>
 
 ## 📖 Sobre o Projeto
